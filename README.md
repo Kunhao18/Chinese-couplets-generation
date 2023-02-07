@@ -1,4 +1,4 @@
-# Chinese-couplets-generation
+# Chinese Couplets Generation System
 
 ### 1 Directory Structure
 
