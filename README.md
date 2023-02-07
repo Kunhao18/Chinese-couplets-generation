@@ -24,6 +24,6 @@ run the `run-score.py`
 
 > Since the client is dynamically compiled in Qt, you need to configure the dynamic link library according to the error message
 
-run the `run-server.py` to launch the server，then input “server start”
+run the `run-server.py` to launch the server, then input “server start”
 
-run the Qt GUI .exe file to start the client after server launching
+run the `nlp.exe` to start the client after server launching
